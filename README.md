@@ -1,5 +1,5 @@
 # Console-IO
-July17
+July 2017
 
 Tech Stack:
 
